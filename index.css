@@ -144,6 +144,16 @@ body{
 .item a:hover{
     text-decoration:underline;
 }
+
+/*  Ícones Font Awesome */
+.fa-solid{
+    font-size: 80px;
+}
+.video-icon{
+    font-size: 90px;
+}
+
+
 .icone{
     font-size:22px;
 }
