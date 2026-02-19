@@ -153,7 +153,12 @@ body{
     font-size: 90px;
 }
 
-
+/*carousel */
+.d-block{
+    width: 100%;
+    height: auto;
+    object-fit: cover ;
+}
 .icone{
     font-size:22px;
 }
